@@ -1,2 +1,3 @@
-# free-opening-books
-A collection of free opening books
+# Free Chess Opening Books
+
+## BIN (Polyglot books)
