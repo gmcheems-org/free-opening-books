@@ -1,1 +1,2 @@
 books/bin/Cerebellum_Light_3Merge_200916.7z filter=lfs diff=lfs merge=lfs -text
+books/ctg/HiarcsBookRef2550Lite-ctg.zip filter=lfs diff=lfs merge=lfs -text
