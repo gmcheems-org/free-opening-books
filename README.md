@@ -9,6 +9,9 @@ Click each book to begin downloading right away
 - [komodo.bin](https://github.com/gmcheems-org/free-opening-books/raw/main/books/bin/komodo.bin) ([source](https://github.com/michaeldv/donna_opening_books/))
 - [rodent.bin](https://github.com/gmcheems-org/free-opening-books/raw/main/books/bin/rodent.bin) ([source](https://github.com/michaeldv/donna_opening_books/))
 
+## CTG (Chessbase)
+
+- [HiarcsBookRef2550Lite-ctg.zip](https://github.com/gmcheems-org/free-opening-books/raw/main/books/ctg/HiarcsBookRef2550Lite-ctg.zip) ([source](https://www.hiarcs.com/chess-opening-book-free.html))
 
 ## Multi (Archives containing multiple formats)
 
