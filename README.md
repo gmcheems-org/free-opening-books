@@ -15,4 +15,4 @@ Click each book to begin downloading right away
 
 ## Multi (Archives containing multiple formats)
 
-- [Perfect 2021.7z](https://github.com/gmcheems-org/free-opening-books/raw/main/books/multi/Perfect%202021.7z) ([source](https://sites.google.com/site/computerschess/perfect-2021-books))
+- [Perfect 2021.7z](https://github.com/gmcheems-org/free-opening-books/raw/main/books/multi/Perfect%202021.7z) ([source](https://sites.google.com/site/computerschess/perfect-2021-books)) (ABK, CTG, BIN, BKT)
