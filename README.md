@@ -8,6 +8,11 @@ Click each book to begin downloading right away
 - [gm2001.bin](https://github.com/gmcheems-org/free-opening-books/raw/main/books/bin/gm2001.bin) ([source](https://github.com/michaeldv/donna_opening_books/))
 - [komodo.bin](https://github.com/gmcheems-org/free-opening-books/raw/main/books/bin/komodo.bin) ([source](https://github.com/michaeldv/donna_opening_books/))
 - [rodent.bin](https://github.com/gmcheems-org/free-opening-books/raw/main/books/bin/rodent.bin) ([source](https://github.com/michaeldv/donna_opening_books/))
+- [Titans.bin](https://github.com/gmcheems-org/free-opening-books/raw/main/books/bin/Titans.bin) ([source](https://digilander.libero.it/taioscacchi/programmi/saros-page.html))
+- [Human.bin](https://github.com/gmcheems-org/free-opening-books/raw/main/books/bin/Human.bin) ([source](https://digilander.libero.it/taioscacchi/programmi/saros-page.html))
+
+
+
 
 ## CTG (Chessbase)
 
